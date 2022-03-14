@@ -1,6 +1,6 @@
 # Bayesian Recurrent CLassifier Chains
 
-This is the official implementation of the method proposed in *Bayesian Recurrent Classifier Chains for Exact Multi-Label Classification*, published at **NeurIPS, 2022**.
+This is the official implementation of the method proposed in *Bayesian Recurrent Classifier Chains for Exact Multi-Label Classification*, published at **NeurIPS, 2021**.
 
 Example code for our method on the Scene dataset is given in the notebook file. Please download the Scene train and test datasets and place them in the datasets folder before running. The files can be downloaded from here: https://www.uco.es/kdis/mllresources/ 
 
