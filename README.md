@@ -1,4 +1,4 @@
-# Bayesian Recurrent CLassifier Chains
+# Bayesian Recurrent Classifier Chains
 
 This is the official implementation of the method proposed in *Bayesian Recurrent Classifier Chains for Exact Multi-Label Classification*, published at **NeurIPS, 2021**.
 
