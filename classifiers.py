@@ -1,6 +1,8 @@
 import torch 
 from sklearn.base import BaseEstimator
 import models
+import numpy as np
+import copy
 
 class BayClassifierChainClf(BaseEstimator): # Inherits scikit-learn base classifier
     def __init__(self, input_size, hidden_size, num_classes, batch_size, parent_dict, classes, device='cuda', learning_rate = 1e-2, num_epochs = 200, verbose=False):
